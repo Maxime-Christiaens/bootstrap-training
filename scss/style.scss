@@ -1,0 +1,12 @@
+@import "reset";
+
+[class*="col-"]{
+    background-color: lightcoral;
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    text-align: center;
+}
+
+ni{
+    padding-top: 1em;
+}
